@@ -1,3 +1,5 @@
-<h2> Hey, I'm Igor! <img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width="50"></h2>
-<img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garik-code&count_private=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garik-code&layout=compact)](https://github.com/garik-code)
+
 
